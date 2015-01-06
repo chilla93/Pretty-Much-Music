@@ -1,0 +1,4 @@
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WP projects\Web Requests\StreamingAudioMediaSource\Bin\Debug\StreamingAudioMediaSource.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WP projects\Web Requests\StreamingAudioMediaSource\Bin\Debug\StreamingAudioMediaSource.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WP projects\Web Requests\StreamingAudioMediaSource\obj\Debug\StreamingAudioMediaSource.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WP projects\Web Requests\StreamingAudioMediaSource\obj\Debug\StreamingAudioMediaSource.pdb

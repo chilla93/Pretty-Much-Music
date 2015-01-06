@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MyToolkit.Extended</id>
+    <version>2.0.14.0</version>
+    <title>MyToolkit.Extended</title>
+    <authors>Rico Suter</authors>
+    <owners>Rico Suter</owners>
+    <licenseUrl>https://mytoolkit.codeplex.com/license</licenseUrl>
+    <projectUrl>https://mytoolkit.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>MyToolkit is a collection of useful classes for the .NET Framework.</description>
+    <releaseNotes />
+    <dependencies>
+      <group>
+        <dependency id="MyToolkit" version="2.0.14.0" />
+      </group>
+      <group targetFramework="Silverlight5.0">
+        <dependency id="MyToolkit" version="2.0.14.0" />
+        <dependency id="Microsoft.Bcl.Async" version="1.0.16" />
+      </group>
+      <group targetFramework="WindowsPhone7.1">
+        <dependency id="MyToolkit" version="2.0.14.0" />
+        <dependency id="Microsoft.Bcl.Async" version="1.0.16" />
+        <dependency id="WPtoolkit" version="4.2013.08.16" />
+      </group>
+      <group targetFramework="WindowsPhone8.0">
+        <dependency id="MyToolkit" version="2.0.14.0" />
+        <dependency id="WPtoolkit" version="4.2013.08.16" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

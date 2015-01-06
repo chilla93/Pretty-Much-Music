@@ -1,0 +1,4 @@
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WP projects\Web Requests\AudioPlaybackAgent1\Bin\Debug\AudioPlaybackAgent1.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WP projects\Web Requests\AudioPlaybackAgent1\Bin\Debug\AudioPlaybackAgent1.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WP projects\Web Requests\AudioPlaybackAgent1\obj\Debug\AudioPlaybackAgent1.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WP projects\Web Requests\AudioPlaybackAgent1\obj\Debug\AudioPlaybackAgent1.pdb

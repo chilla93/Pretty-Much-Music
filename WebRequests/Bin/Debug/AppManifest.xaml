@@ -1,0 +1,17 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="WebRequests" EntryPointType="WebRequests.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="WebRequests" Source="WebRequests.dll" />
+    <AssemblyPart x:Name="Microsoft.PlayerFramework" Source="Microsoft.PlayerFramework.dll" />
+    <AssemblyPart x:Name="AudioPlaybackAgent1" Source="AudioPlaybackAgent1.dll" />
+    <AssemblyPart x:Name="AudioStreamAgent1" Source="AudioStreamAgent1.dll" />
+    <AssemblyPart x:Name="HtmlAgilityPack" Source="HtmlAgilityPack.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="MyToolkit" Source="MyToolkit.dll" />
+    <AssemblyPart x:Name="MyToolkit.Extended" Source="MyToolkit.Extended.dll" />
+    <AssemblyPart x:Name="Newtonsoft.Json" Source="Newtonsoft.Json.dll" />
+    <AssemblyPart x:Name="System.Xml.XPath" Source="System.Xml.XPath.dll" />
+    <AssemblyPart x:Name="YoutubeExtractor" Source="YoutubeExtractor.dll" />
+    <AssemblyPart x:Name="StreamingAudioMediaSource" Source="StreamingAudioMediaSource.dll" />
+  </Deployment.Parts>
+</Deployment>

@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WP projects\Web Requests\AudioStreamAgent1\Bin\Debug\AudioStreamAgent1.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WP projects\Web Requests\AudioStreamAgent1\Bin\Debug\AudioStreamAgent1.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WP projects\Web Requests\AudioStreamAgent1\Bin\Debug\StreamingAudioMediaSource.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WP projects\Web Requests\AudioStreamAgent1\Bin\Debug\StreamingAudioMediaSource.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WP projects\Web Requests\AudioStreamAgent1\obj\Debug\AudioStreamAgent1.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WP projects\Web Requests\AudioStreamAgent1\obj\Debug\AudioStreamAgent1.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WP projects\Web Requests\AudioStreamAgent1\obj\Debug\AudioStreamAgent1.pdb

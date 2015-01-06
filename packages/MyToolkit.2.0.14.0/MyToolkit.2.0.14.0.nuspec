@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>MyToolkit</id>
+    <version>2.0.14.0</version>
+    <title>MyToolkit</title>
+    <authors>Rico Suter</authors>
+    <owners>Rico Suter</owners>
+    <licenseUrl>https://mytoolkit.codeplex.com/license</licenseUrl>
+    <projectUrl>https://mytoolkit.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>MyToolkit is a collection of useful classes for the .NET Framework.</description>
+    <releaseNotes />
+  </metadata>
+</package>
